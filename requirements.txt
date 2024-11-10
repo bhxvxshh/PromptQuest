@@ -1,0 +1,10 @@
+langchain
+opencv-python
+transformers
+openai
+langchain_openai
+langchain_community
+langserve
+fastapi
+uvicorn
+sse_starlette 
