@@ -20,7 +20,7 @@ Installation & Setup
 1. Clone the Repository
 bash
 Copy code
-git clone https://github.com/yourusername/PromptQuest.git
+git clone https://github.com/bhxvxshh/PromptQuest.git
 cd PromptQuest
 2. Create a Virtual Environment
 bash
